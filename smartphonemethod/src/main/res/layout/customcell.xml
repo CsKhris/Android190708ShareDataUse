@@ -6,7 +6,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Sensor Name"
+        android:text=" Sensor Name"
         android:textSize="25dp"
         android:textStyle="bold"
         android:id="@+id/txtname"/>
@@ -14,14 +14,14 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Sensor Vendor"
+        android:text="   Sensor Vendor"
         android:textSize="19dp"
         android:id="@+id/txtvendor"/>
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Sensor Version"
+        android:text=" Sensor Version"
         android:textSize="17dp"
         android:textStyle="bold"
         android:id="@+id/txtversion"/>
